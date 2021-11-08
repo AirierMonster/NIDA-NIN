@@ -85,7 +85,7 @@ def nida() -> None:
 
     except:
         text_out(
-            red + "\nERROR SOMETHING IS WRONG, Probably Internet Connection or Your NIN not Found In System\n" + close)
+            red + "\nERROR SOMETHING IS WRONG, Hii inawezekana Huna Internet Au NIN Hii haipo kwenye sytem\n" + close)
         exit()
 
     def clean() -> None:
